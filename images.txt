@@ -1,2 +1,2 @@
-nginx
-mysql
+node:21-alpine3.19
+python:3.11-slim-bookworm
